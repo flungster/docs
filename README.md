@@ -1,5 +1,6 @@
 # docs
 various docs I've accumulated while developing stuff personally
+* [Useful OS X apps/tools](OSXTOOLS.md)
 * [OS X personal development setup](OSXDEV.md)
 
 # TO DO projects
