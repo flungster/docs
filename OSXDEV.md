@@ -12,8 +12,10 @@ Download and install the following:
 # Setup Vagrant and VirtualBox
 * Install VirtualBox
 * Install Vagrant
-* Install the Guest PLugin
-`vagrant plugin install vagrant-vbguest`
+* Install the Guest Plugin:
+
+```vagrant plugin install vagrant-vbguest```
+
 * Setup your own box
 
 
