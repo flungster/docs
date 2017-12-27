@@ -17,7 +17,7 @@ I enjoy running. If you do too, then you might find the following links helpful 
 * [Surf City Marathon](https://www.motivrunning.com/run-surf-city/)
 
 # Running Websites/Publications
-* [Runner's World](https://www.runnersworld.com/
+* [Runner's World](https://www.runnersworld.com/)
 * [Marathon Guide](http://www.marathonguide.com/)
 * [Marathon Maniacs](http://www.marathonmaniacs.com/)
 * [iRunFar](https://www.irunfar.com/)
